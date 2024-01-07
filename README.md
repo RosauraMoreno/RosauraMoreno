@@ -1,5 +1,5 @@
 <!--
-### Hi there 👋
+### ¡Hola, soy Rosaura Moreno! 👋
 **RosauraMoreno/RosauraMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 -->
 
-# ¡Hola, soy Rosaura Moreno! 👋
+[![Mi Foto](https://github.com/RosauraMoreno/RosauraMoreno/blob/0cd33110c766d0bc19ac13830cda78d9071f5322/imag/github-RM.png)](https://github.com/RosauraMoreno)
+
 
 ## Sobre mí
 ¡Bienvenido a mi perfil! Soy Ingeniera de Sistemas apasionada por los desafíos y siempre lista para aprender nuevas cosas. Actualmente, estoy dando mis primeros pasos en el mundo de la programación en Python, después de haber trabajado en proyectos con Visual Studio .NET. También estoy explorando el fascinante campo de la inteligencia artificial para ampliar mis conocimientos y habilidades.
