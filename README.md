@@ -23,17 +23,16 @@ Here are some ideas to get you started:
 
 ## Habilidades
 - 💻 Desarrollo de software: Python, Visual Studio .NET
-- 🧠 Aprendiendo sobre inteligencia artificial
+- 🧠 Aprendiendo sobre inteligencia artificial, Odoo
 - 🚀 Aprendiz rápido y apasionado por los retos.
 
 ## Estadísticas de GitHub
 [![Mis Estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=RosauraMoreno&show_icons=true&count_private=true)](https://github.com/RosauraMoreno)
 
 ## En este momento
-- 🔭 Actualmente estoy trabajando en: @KonosCL
 - 🌱 Actualmente estoy aprendiendo: Python, Inteligencia Artificial
 - 👯 Estoy buscando colaborar en: Proyectos interesantes que desafíen mis habilidades
-- 💬 Pregúntame sobre: Ingeniería de Sistemas, Python, Inteligencia Artificial
+- 💬 Pregúntame sobre: Ingeniería de Sistemas, Python, Inteligencia Artificial, Odoo
 - 📫 Cómo contactarme: [https://www.linkedin.com/in/rosauram28]
 - 😄 Pronombres: Poncym28
 - ⚡ Dato curioso: ¡Soy amante de los juegos!
