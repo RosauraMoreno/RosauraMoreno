@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - 🧠 Aprendiendo sobre inteligencia artificial, Odoo
 - 🚀 Aprendiz rápido y apasionado por los retos.
 
-## Estadísticas de GitHub
-[![Mis Estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=RosauraMoreno&show_icons=true&count_private=true)](https://github.com/RosauraMoreno)
 
 ## En este momento
 - 🌱 Actualmente estoy aprendiendo: Python, Inteligencia Artificial
